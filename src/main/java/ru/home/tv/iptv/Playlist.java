@@ -18,7 +18,7 @@ import java.nio.file.Paths;
 import java.util.Properties;
 
 
-public class Playlist {
+public final class Playlist {
 
     private static final String HEADER_PLAYLIST = "header.properties";
 
